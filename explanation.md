@@ -27,6 +27,14 @@ In order for your browser to actually connect to the Web server to retrieve the 
 
 Microsoft's Internet Explorer (IE) is considered the dominant browser though microsoft recently launched a new browser called Microsoft Edge browser. IE and Edge browsers are designed to work on Windows platforms.
 
-**_Chrome_*
+**_Chrome_**
 
 Google Chrome browser is developed by google and is based on open source chromium project. It was released in 2008 and is available for Windows, Mac OS X, Linux, Android and iOS operating systems.
+
+**_FireFox Web Browser_**
+
+Firefox browser's code was derived from Mozilla browser.
+
+**_Netscape Browser_**
+
+This was the first commercial Web browser that was once extremely popular. Version 8 is based on code from company spin-off Mozilla, thus borrowwing much of the functionality and format from Firefox.
