@@ -91,3 +91,10 @@ This file is drafted using the hypertext markup language, (HTML).
 These files or web pages are pulled from the web server and then translated by the web browser for the user to view.
 If you do not have a web browser and attempt to view the HTML file, you will see numerous amounts of code lines that may not make sense to the average user.
 The browser will translate those code lines that makes it easily readable for the user.
+
+##### Step by step into how web browsers work
+Web browser uses a protocol that is named as Hypertexts Transport protocol (HTTP) protocol 
+It then sends the request of the text document encoded to the web server like Apache or IIS and then receives the response from the server and passes it on.
+The text document consists of the special markup code written in HyperText Markup language (HTML) and is used for most of the websites. 
+HTML is being interpreted by the web browser and renders according to the functionality written for the interpretation.
+They also can display applications, programs, animations, and similar material created with programming languages such as Java and ActiveX, scripting languages such as JavaScript, and techniques such as AJAX and sends the response in HTML format to the client side
