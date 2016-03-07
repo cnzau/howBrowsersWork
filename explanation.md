@@ -56,3 +56,10 @@ Swiftfox is a Web browser for Linux platforms that is based on Mozilla Firefox t
 **_GreenBrowser_**
 
 **_Lunascape 5_**
+
+
+## Functions of Browsers
+Their main functionality is to present the web resource chosen, by requesting it from the server and displaying it on the browser window.
+The resource format is a regularly hypertext markup language (HTML) document, containing PDF, image, flashes or some other type of content in an ordered manner. The location of the resource is specified by the user using a URI (Uniform Resource Identifier) or URL (Uniform Resource Locator).
+The way the browser represents and displays HTML files is specified in the HTML and CSS specifications. These specifications are managed by the W3C (World Wide Web Consortium) organization, which is the standard organization for the web.
+Browsers are not just good at viewing web pages, they can also be used to download and upload files as well. Browsers can facilitate the file transfer protocol (FTP). FTPs allow users to upload or download files to web servers using a browser.
