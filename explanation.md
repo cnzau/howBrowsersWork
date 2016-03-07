@@ -71,5 +71,9 @@ FTPs allow users to upload or download files to web servers using a browser.
 ## Structure of a Web Browser
 A browser is a group of structured codes that performs plenty of tasks to display a webpage on the screen. These codes are separated in to different components according to their tasks performed.
 
-1. **_User Interface_** – It is the space where interaction between users and the browser occurs.Browser user interfaces have a lot in common with each other. This include : Address bar for inserting a URI, back and forward buttons, bookmarking options, refresh and stop buttons for refreshing or stopping the loading of current file and the home button that takes you to your home page.
-2. **_Browser Engine_** – It is a code that communicates the inputs of user interface with the rendering engine. It is responsible for querying and manipulating the rendering engine according to the inputs from various user interfaces.
+1. **_User Interface_** – It is the space where interaction between users and the browser occurs.Browser user interfaces have a lot in common with each other.
+This include : Address bar for inserting a URI, back and forward buttons, bookmarking options, refresh and stop buttons for refreshing or stopping the loading of current file and the home button that takes you to your home page.
+2. **_Browser Engine_** – It is a code that communicates the inputs of user interface with the rendering engine.
+It is responsible for querying and manipulating the rendering engine according to the inputs from various user interfaces.
+3. **_Rendering Engine_** – It is the part responsible for displaying the requested content on the screen.
+It first parses the html tags and then using the styles, it builds a render tree and finally a render layout, which displays the content on the screen.
