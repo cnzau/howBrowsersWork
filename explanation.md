@@ -26,3 +26,7 @@ In order for your browser to actually connect to the Web server to retrieve the 
 **_Internet Explorer Web Browser_**
 
 Microsoft's Internet Explorer (IE) is considered the dominant browser though microsoft recently launched a new browser called Microsoft Edge browser. IE and Edge browsers are designed to work on Windows platforms.
+
+**_Chrome_*
+
+Google Chrome browser is developed by google and is based on open source chromium project. It was released in 2008 and is available for Windows, Mac OS X, Linux, Android and iOS operating systems.
