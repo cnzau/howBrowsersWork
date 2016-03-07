@@ -77,3 +77,5 @@ This include : Address bar for inserting a URI, back and forward buttons, bookma
 It is responsible for querying and manipulating the rendering engine according to the inputs from various user interfaces.
 3. **_Rendering Engine_** – It is the part responsible for displaying the requested content on the screen.
 It first parses the html tags and then using the styles, it builds a render tree and finally a render layout, which displays the content on the screen.
+4. **_Networking_** – The fraction of the code written in the browser, responsible to send various network calls.
+For example sending the http requests to the server.
