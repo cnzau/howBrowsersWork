@@ -83,3 +83,7 @@ For example sending the http requests to the server.
 6. **_UI Backend_** – This draws basic widgets on the browser like combo boxes, windows, etc.
 7. **_Data Storage_** – It is small database created on the local drive of the computer where the browser is installed.
 This database stores various files like cache, cookies
+
+**Browsers High Level Structure**
+
+![alt text](https://github.com/cnzau/howBrowsersWork/structure.png "Browser Structure")
