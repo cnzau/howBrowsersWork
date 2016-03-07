@@ -79,3 +79,7 @@ It is responsible for querying and manipulating the rendering engine according t
 It first parses the html tags and then using the styles, it builds a render tree and finally a render layout, which displays the content on the screen.
 4. **_Networking_** – The fraction of the code written in the browser, responsible to send various network calls.
 For example sending the http requests to the server.
+5. **_Java Script Interpreter_** – It is the component of the browser written to interpret the java script code presented in a web page.
+6. **_UI Backend_** – This draws basic widgets on the browser like combo boxes, windows, etc.
+7. **_Data Storage_** – It is small database created on the local drive of the computer where the browser is installed.
+This database stores various files like cache, cookies
