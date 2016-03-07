@@ -21,3 +21,8 @@ Once you enter the URL "http://www.webopedia.com/browser.html" into your address
 * The file name, which follows the server name: "browser.html"
 
 In order for your browser to actually connect to the Web server to retrieve the information you request, it communicates with a name server to translate the server name into an IP address. Your Web browser is then able to connect to the Web server at the resolved IP address on port 80. Once your browser has connected to the Web server using HTTP, the browser then reads the HyperText Markup Language (HTML), the authoring language used to create documents on the World Wide Web, and the data is then displayed in your Web browser.
+
+## Popular Web Browsers
+**_Internet Explorer Web Browser_**
+
+Microsoft's Internet Explorer (IE) is considered the dominant browser though microsoft recently launched a new browser called Microsoft Edge browser. IE and Edge browsers are designed to work on Windows platforms.
