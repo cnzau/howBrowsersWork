@@ -84,6 +84,10 @@ For example sending the http requests to the server.
 7. **_Data Storage_** – It is small database created on the local drive of the computer where the browser is installed.
 This database stores various files like cache, cookies
 
-**Browsers High Level Structure**
-
-![alt text](https://github.com/cnzau/howBrowsersWork/structure.png "Browser Structure")
+## Generally
+In general, web browsers allow users to view resources that are stored on a server.
+For example, if one were to visit www.google.com, one is actually viewing a file that is displayed using the web browser.
+This file is drafted using the hypertext markup language, (HTML).
+These files or web pages are pulled from the web server and then translated by the web browser for the user to view.
+If you do not have a web browser and attempt to view the HTML file, you will see numerous amounts of code lines that may not make sense to the average user.
+The browser will translate those code lines that makes it easily readable for the user.
