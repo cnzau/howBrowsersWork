@@ -41,7 +41,18 @@ This was the first commercial Web browser that was once extremely popular. Versi
 
 **_Safari Browser_**
 
-Safari is a Web browser available for the Macintosh and Windows operating systems as well as the iPhone, iPod Touch and iPad. First released in 2003
+Safari is a Web browser available for the Macintosh and Windows operating systems as well as the iPhone, iPod Touch and iPad. First released in 2003.
 
 #### Others
 **_Opera_** developed by opera software the latest version available on the major platforms.
+
+**_Swiftfox_**
+Swiftfox is a Web browser for Linux platforms that is based on Mozilla Firefox technology, with builds for both AMD and Intel processors.
+
+**_Konqueror_** runs on Unix-based OS.
+
+**_AOL Explorer_**
+
+**_GreenBrowser_**
+
+**_Lunascape 5_**
