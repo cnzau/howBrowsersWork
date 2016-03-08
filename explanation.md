@@ -99,6 +99,12 @@ The text document consists of the special markup code written in HyperText Marku
 HTML is being interpreted by the web browser and renders according to the functionality written for the interpretation.
 They also can display applications, programs, animations, and similar material created with programming languages such as Java and ActiveX, scripting languages such as JavaScript, and techniques such as AJAX and sends the response in HTML format to the client side
 
+**Note:**
+Web browsers can’t display some types of files on the Internet, notably some kinds of multimedia files, such as sound, video, and animation files.
+A common file type like this is called Flash.
+To view or play these files, you need what is called a helper application or plug-in.
+You must configure your web browser or operating system to launch these helper applications and plug-ins whenever you click an object that needs them to be viewed. More often than not, when you install the application or plug-in, it will configure itself properly
+
 ## References
 * http://study.com/academy/lesson/what-is-a-web-browser-definition-examples-quiz.html
 * http://www.careerride.com/view.aspx?id=3168 
