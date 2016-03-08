@@ -98,3 +98,13 @@ It then sends the request of the text document encoded to the web server like Ap
 The text document consists of the special markup code written in HyperText Markup language (HTML) and is used for most of the websites. 
 HTML is being interpreted by the web browser and renders according to the functionality written for the interpretation.
 They also can display applications, programs, animations, and similar material created with programming languages such as Java and ActiveX, scripting languages such as JavaScript, and techniques such as AJAX and sends the response in HTML format to the client side
+
+## References
+* http://study.com/academy/lesson/what-is-a-web-browser-definition-examples-quiz.html
+* http://www.careerride.com/view.aspx?id=3168 
+* http://www.webopedia.com/quick_ref/internet_browsers.asp 
+* http://www.quepublishing.com/articles/article.aspx?p=680307 
+* http://www.pro-tekconsulting.com/blog/how-the-browser-works/
+* http://news.softpedia.com/news/Microsoft-Edge-Browser-on-Linux-and-Mac-Not-Going-to-Happen-Microsoft-Says-480032.shtml
+* http://searchmobilecomputing.techtarget.com/definition/Google-Chrome-browser
+* https://en.wikipedia.org/wiki/Opera_(web_browser)
