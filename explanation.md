@@ -86,7 +86,7 @@ This database stores various files like cache, cookies
 
 **Browsers High Level Structure**
 
-![alt text](https://github.com/cnzau/howBrowsersWork/structure.png "Browser Structure")
+![alt text](https://github.com/cnzau/howBrowsersWork/blob/master/structure.png "Browser Structure")
 
 ## Generally
 In general, web browsers allow users to view resources that are stored on a server.
